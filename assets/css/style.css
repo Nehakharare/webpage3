@@ -107,3 +107,35 @@ header{
     border-radius: 4px;
 }
 /* about Us Section End */
+
+/* Service Section Start */
+.service{
+    width: 100%;
+    height: auto;
+    padding: 0px, 100px;
+}
+.service .upper, .service .lower{
+    display: flex;
+    align-items: center;
+}
+.service .image,
+.service .content{
+    width: 50%;
+}
+.service .image img{
+    width: 730px;
+    height: 500px;
+}
+
+/* /service Section End */
+
+/* Footer section start */
+footer{
+    width: 100%;
+    height: auto;
+    color: #fff;
+    text-align: center;
+    padding: 25px 100px;
+    background: #022D7C;
+}
+/* Footer section end */
